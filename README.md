@@ -1,6 +1,7 @@
 # Overview
 
 A updated school project made with Fusion 360. It was designed to mount a fencing sabre for practice without the need of screws
+
 ![IMG_0716](https://user-images.githubusercontent.com/84703098/186964858-950f6f4d-9091-481b-9cd9-4ae4b0c892c0.jpg)
 
 ## Installation
