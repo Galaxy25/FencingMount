@@ -21,3 +21,11 @@ A updated school project made with Fusion 360. It was designed to mount a fencin
     ![IMG_0717](https://user-images.githubusercontent.com/84703098/186833455-19fa16e7-ec8e-4ef2-b1b1-49b9731b6098.jpg)
 
 ## Video of Use
+
+
+https://user-images.githubusercontent.com/84703098/186835034-7bf46783-1fc2-453d-bef8-780bd88cee1d.MOV
+
+
+
+https://user-images.githubusercontent.com/84703098/186835050-1f443df1-40a2-49c3-80c9-b14b1058e298.MOV
+
